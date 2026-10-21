@@ -5,8 +5,13 @@
 <h1 align="center">Hi! I'm Arturo Contreras. 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arturoct06/"><img src="https://img.shields.io/badge/LinkedIn-arturoct06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arturocontreras08@outlook.es"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arturoct06/"><img src="assets/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/arturo.ct/"><img src="assets/instagram.png" alt="Instagram" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/arturoct06/"><img src="assets/x.png" alt="X" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:arturocontreras08@outlook.es"><img src="assets/outlook.png" alt="Email" width="40" height="40" /></a>
 </p>
 
 ## About me
@@ -16,13 +21,12 @@
 - ⚙️ Fullstack experience with **Spring Boot**, **.NET**, **Angular**, **Vue 3** and **Kotlin/Flutter**, deployed on **Azure**.
 - 🤝 I work in teams using **Scrum** and **GitFlow**.
 - 🧩 I enjoy taking part in events, meeting new people, and playing sports.
+- 📩 Contact me: arturocontreras08@outlook.es
 
 ## Tech Stack
-<p align = "center" >
-  <img src="https://skillicons.dev/icons?i=java,cs,ts,js,kotlin,dart,py,cpp" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=spring,dotnet" alt="Backend" />
-  <img src="https://skillicons.dev/icons?i=angular,vue,flutter,html,css" alt="Frontend" />
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,figma" alt="DevOps and tools" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,ts,js,kotlin,dart,py,cpp,spring,dotnet,angular,vue,flutter,html,css,mysql,mongodb,docker,azure,git,github,figma&perline=11" alt="Tech stack" />
 </p>
 
 ## GitHub Stats
