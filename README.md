@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/bike_banner.gif" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi! I'm Arturo Contreras. 👋</h1>
 
 <p align="center">
